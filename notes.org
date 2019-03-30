@@ -1,0 +1,16 @@
+Get the command to install chocolatey from powershell
+write scripts in powershell for better native support
+www.github.com/wmaxzimmerman/chocosetup/archive/master.zip (need to download and extract this with powershell)
+
+install all programs
+perform sharpkeys
+restart machine
+git ssh?
+perform further installs (git/node)
+
+handle failing installs
+Create directories
+Should probably restart after the installs?
+Slow internet might prevent some of the installs? (Test when home)
+Set where things are installed?
+Set Default programs
