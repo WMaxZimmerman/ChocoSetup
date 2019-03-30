@@ -1,0 +1,6 @@
+*Chrome*
+
+* Extensions
+** Vimium
+** LastPass
+** Ad Block Pro
