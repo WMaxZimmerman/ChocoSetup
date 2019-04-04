@@ -1,17 +1,17 @@
 # === Setup Directories ===
-mkdir 'C:/temp'
-mkdir 'C:/git'
-mkdir 'C:/tools'
+mkdir 'c:/git'
+mkdir 'c:/tools'
 
 # === Install Chocolatey ===
 Set-ExecutionPolicy Bypass -Scope Process -Force; iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))
 
 # === Download Repo ===
-invoke-webrequest -url https://github.com/WMaxZimmerman/ChocoSetup/archive/master.zip -outfile C:/temp/setup.zip
+invoke-webrequest -uri https://github.com/WMaxZimmerman/ChocoSetup/archive/master.zip -outfile c:/temp/setup.zip
 
 # === Define Function to Unzip ===
 Add-Type -AssemblyName System.IO.Compression.FileSystem
-[System.IO.Compression.ZipFile]::ExtractToDirectory('C:/temp/setup.zip', 'C:/temp/setup')
+[System.IO.Compression.ZipFile]::ExtractToDirectory('c:/temp/setup.zip', 'c:/temp/setup')
 
-# === Execute Next Script ===
-& 'C:/temp/setup/ChocoSetup-master/install-base-packages.ps1'
+# === Execute Next Scripts ===
+& 'c:/temp/setup/ChocoSetup-master/baseinstalls.ps1'
+& 'c:/temp/setup/ChocoSetup-master/chocosteps.ps1'

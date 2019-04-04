@@ -1,0 +1,12 @@
+*ChocoSetup*
+A set of scripts to setup the programs and tools I want on a new computer.
+
+* Install Steps
+** [Net.ServicePointManager]::SecurityProtocol = "tls12, tls11, tls"
+** Set-ExecutionPolicy RemoteSigned
+** mkdir "c:/temp"
+** invoke-webrequest -uri https://raw.githubusercontent.com/WMaxZimmerman/ChocoSetup/master/init.ps1 -outfile "c:/temp/init.ps1"
+** cd c:/temp
+** & "./init.ps1"
+
+
