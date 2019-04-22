@@ -1,0 +1,1 @@
+[Environment]::SetEnvironmentVariable("Test", "My Value", "Machine")
