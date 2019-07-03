@@ -1,4 +1,4 @@
-name,ring,quadrant,IsNew,description
+name,ring,quadrant,isNew,description
 Cypress,adopt,tools,TRUE,<p>This is the description</p>
 Another one,trial,platforms,TRUE,<p>This is the description</p>
 Prophet,assess,techniques,TRUE,<p>This is the description</p>
