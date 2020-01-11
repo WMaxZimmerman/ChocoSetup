@@ -23,3 +23,8 @@ choco install steam -y
 choco install mumble -y
 choco install discord -y
 choco install logitechgaming -y
+
+choco install postgres -y
+choco install lein -y
+
+
