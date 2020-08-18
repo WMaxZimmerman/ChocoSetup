@@ -12,6 +12,7 @@ choco install 7zip -y
 choco install launchy -y
 choco install f.lux -y
 choco install sharpkeys -y
+choco install cmder
 
 # Editors
 choco install emacs -y
