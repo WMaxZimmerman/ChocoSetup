@@ -17,7 +17,7 @@ choco install cmder
 # Editors
 choco install emacs -y
 choco install vscode -y
-choco install visualstudio2019community -y
+# choco install visualstudio2019community -y
 
 # Applications
 choco install dropbox -y
@@ -26,12 +26,12 @@ choco install vlc -y
 choco install slack -y
 choco install plantuml -y
 choco install pandoc -y
-choco install libreoffice-fresh -y
+# choco install libreoffice-fresh -y
 
 # Gaming
-choco install steam -y
+# choco install steam -y
 choco install discord -y
-choco install logitechgaming -y
+# choco install logitechgaming -y
 
 # Database
 choco install postgres -y
