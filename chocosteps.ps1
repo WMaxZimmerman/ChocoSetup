@@ -24,6 +24,7 @@ choco install googlechrome -y
 choco install slack -y
 choco install plantuml -y
 choco install pandoc -y
+choco install jq -y
 # choco install libreoffice-fresh -y
 
 # Gaming
