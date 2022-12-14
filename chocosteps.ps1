@@ -32,4 +32,4 @@ choco install discord -y
 # choco install logitechgaming -y
 
 # Database
-choco install postgres -y
+choco install postgresql -y
