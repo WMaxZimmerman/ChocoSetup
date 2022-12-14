@@ -2,8 +2,7 @@
 choco install dotnet -y
 choco install python -y
 choco install jre8 -y
-choco install nodejs.install -y 
-choco install lein -y
+choco install nodejs -y 
 
 # Usability
 choco install clcl.portable -y
