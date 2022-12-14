@@ -1,6 +1,6 @@
 # Language Runtimes
 choco install netfx-4.7.1-devpack -y
-choco install dotnetcore-sdk -y
+choco install dotnet -y
 choco install python -y
 choco install jre8 -y
 choco install nodejs.install -y 
