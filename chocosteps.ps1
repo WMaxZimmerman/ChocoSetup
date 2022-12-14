@@ -10,7 +10,7 @@ choco install 7zip -y
 choco install launchy -y
 choco install f.lux -y
 choco install sharpkeys -y
-choco install cmder
+choco install cmder -y
 
 # Editors
 choco install emacs -y
@@ -20,7 +20,7 @@ choco install vscode -y
 # Applications
 choco install dropbox -y
 choco install googlechrome -y
-choco install vlc -y
+# choco install vlc -y
 choco install slack -y
 choco install plantuml -y
 choco install pandoc -y
