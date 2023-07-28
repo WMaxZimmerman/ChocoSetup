@@ -1,36 +1,37 @@
 # Language Runtimes
-scoop install dotnet -y
-scoop install python -y
-scoop install jre8 -y
-scoop install nodejs -y 
+scoop install dotnet
+scoop install python
+scoop install jre8
+scoop install nodejs 
 
 # Usability
-scoop install clcl.portable -y
-scoop install 7zip -y
-scoop install launchy -y
-scoop install f.lux -y
-scoop install sharpkeys -y
-scoop install cmder -y
+scoop install git
+scoop install clcl.portable
+scoop install 7zip
+scoop install launchy
+scoop install f.lux
+scoop install sharpkeys
+scoop install cmder-full
 
 # Editors
-scoop install emacs -y
-scoop install vscode -y
-# scoop install visualstudio2019community -y
+scoop install emacs
+scoop install vscode
+# scoop install visualstudio2019community
 
 # Applications
-scoop install dropbox -y
-scoop install googlechrome -y
-# scoop install vlc -y
-scoop install slack -y
-scoop install plantuml -y
-scoop install pandoc -y
-scoop install jq -y
-# scoop install libreoffice-fresh -y
+scoop install dropbox
+scoop install googlechrome
+# scoop install vlc
+scoop install slack
+scoop install plantuml
+scoop install pandoc
+scoop install jq
+# scoop install libreoffice-fresh
 
 # Gaming
-# scoop install steam -y
-scoop install discord -y
-# scoop install logitechgaming -y
+# scoop install steam
+scoop install discord
+# scoop install logitechgaming
 
 # Database
-scoop install postgresql -y
+scoop install postgresql
