@@ -2,7 +2,6 @@
 mkdir 'c:/bench'
 mkdir 'c:/bench/git'
 mkdir 'c:/bench/tools'
-mkdir 'c:/temp'
 
 # === Install Chocolatey ===
 Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
