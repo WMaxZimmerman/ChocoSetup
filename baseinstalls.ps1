@@ -1,2 +1,2 @@
-scoop install git -y
-scoop install cmder -y
+scoop install git
+scoop install cmder-full
