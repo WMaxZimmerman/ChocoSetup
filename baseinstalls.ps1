@@ -1,2 +1,2 @@
-choco install git -y
-choco install cmder -y
+scoop install git -y
+scoop install cmder -y
