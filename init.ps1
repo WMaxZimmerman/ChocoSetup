@@ -17,5 +17,4 @@ Add-Type -AssemblyName System.IO.Compression.FileSystem
 [System.IO.Compression.ZipFile]::ExtractToDirectory('c:/temp/setup.zip', 'c:/temp/setup')
 
 # === Execute Next Scripts ===
-& 'c:/temp/setup/ChocoSetup-master/baseinstalls.ps1'
 & 'c:/temp/setup/ChocoSetup-master/chocosteps.ps1'
