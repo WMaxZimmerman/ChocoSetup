@@ -1,36 +1,36 @@
 # Language Runtimes
-choco install dotnet -y
-choco install python -y
-choco install jre8 -y
-choco install nodejs -y 
+scoop install dotnet -y
+scoop install python -y
+scoop install jre8 -y
+scoop install nodejs -y 
 
 # Usability
-choco install clcl.portable -y
-choco install 7zip -y
-choco install launchy -y
-choco install f.lux -y
-choco install sharpkeys -y
-choco install cmder -y
+scoop install clcl.portable -y
+scoop install 7zip -y
+scoop install launchy -y
+scoop install f.lux -y
+scoop install sharpkeys -y
+scoop install cmder -y
 
 # Editors
-choco install emacs -y
-choco install vscode -y
-# choco install visualstudio2019community -y
+scoop install emacs -y
+scoop install vscode -y
+# scoop install visualstudio2019community -y
 
 # Applications
-choco install dropbox -y
-choco install googlechrome -y
-# choco install vlc -y
-choco install slack -y
-choco install plantuml -y
-choco install pandoc -y
-choco install jq -y
-# choco install libreoffice-fresh -y
+scoop install dropbox -y
+scoop install googlechrome -y
+# scoop install vlc -y
+scoop install slack -y
+scoop install plantuml -y
+scoop install pandoc -y
+scoop install jq -y
+# scoop install libreoffice-fresh -y
 
 # Gaming
-# choco install steam -y
-choco install discord -y
-# choco install logitechgaming -y
+# scoop install steam -y
+scoop install discord -y
+# scoop install logitechgaming -y
 
 # Database
-choco install postgresql -y
+scoop install postgresql -y
