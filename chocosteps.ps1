@@ -1,5 +1,6 @@
 scoop bucket add extras
 scoop bucket add java
+scoop bucket add kiennq-scoop https://github.com/kiennq/scoop-misc
 
 # Language Runtimes
 scoop install dotnet-sdk
@@ -17,7 +18,7 @@ scoop install sharpkeys
 scoop install cmder-full
 
 # Editors
-scoop install emacs
+scoop install emacs-k
 scoop install vscode
 scoop install rider
 # scoop install visualstudio2019community
