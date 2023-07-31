@@ -31,6 +31,7 @@ scoop install slack
 scoop install plantuml
 scoop install pandoc
 scoop install jq
+scoop install docker
 # scoop install libreoffice-fresh
 
 # Gaming
