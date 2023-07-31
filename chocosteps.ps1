@@ -32,6 +32,7 @@ scoop install plantuml
 scoop install pandoc
 scoop install jq
 scoop install docker
+scoop install docker-compose
 # scoop install libreoffice-fresh
 
 # Gaming
