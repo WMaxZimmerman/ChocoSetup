@@ -6,7 +6,8 @@ scoop bucket add kiennq-scoop https://github.com/kiennq/scoop-misc
 scoop install dotnet-sdk
 scoop install python
 scoop install oraclejre8
-scoop install nodejs 
+scoop install nodejs
+scoop install nvm
 
 # Usability
 scoop install git
