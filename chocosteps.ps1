@@ -15,7 +15,7 @@ scoop install 7zip
 scoop install launchy
 scoop install flux
 scoop install sharpkeys
-scoop install cmder-full
+scoop install windows-terminal
 
 # Editors
 scoop install emacs-k
