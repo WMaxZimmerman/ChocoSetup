@@ -8,6 +8,8 @@ scoop install python
 scoop install oraclejre8
 scoop install nodejs
 scoop install nvm
+scoop install golang
+scoop install gcc
 
 # Usability
 scoop install git
