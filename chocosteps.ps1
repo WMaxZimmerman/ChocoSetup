@@ -10,6 +10,7 @@ scoop install nodejs
 scoop install nvm
 scoop install golang
 scoop install gcc
+scoop install gnuplot
 
 # Usability
 scoop install git
