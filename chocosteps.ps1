@@ -46,3 +46,4 @@ scoop install discord
 
 # Database
 scoop install postgresql
+scoop install sqlite
