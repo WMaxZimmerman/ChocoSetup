@@ -1,6 +1,7 @@
 scoop bucket add extras
 scoop bucket add java
 scoop bucket add kiennq-scoop https://github.com/kiennq/scoop-misc
+scoop bucket add dorado https://github.com/chawyehsu/dorado
 
 # Language Runtimes
 scoop install dotnet-sdk
@@ -38,6 +39,7 @@ scoop install jq
 scoop install docker
 scoop install docker-compose
 # scoop install libreoffice-fresh
+scoop install texlive-full
 
 # Gaming
 # scoop install steam
