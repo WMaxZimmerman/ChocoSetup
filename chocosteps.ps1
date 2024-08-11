@@ -1,3 +1,5 @@
+scoop install git
+
 scoop bucket add extras
 scoop bucket add java
 scoop bucket add kiennq-scoop https://github.com/kiennq/scoop-misc
@@ -14,7 +16,6 @@ scoop install gcc
 scoop install gnuplot
 
 # Usability
-scoop install git
 #scoop install clcl.portable
 scoop install 7zip
 scoop install launchy
