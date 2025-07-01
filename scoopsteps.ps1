@@ -27,6 +27,8 @@ scoop install windows-terminal
 scoop install emacs-k
 scoop install vscode
 scoop install rider
+scoop install datagrip
+scoop install postman
 # scoop install visualstudio2019community
 
 # Applications
@@ -40,6 +42,7 @@ scoop install jq
 scoop install docker
 scoop install docker-compose
 scoop install azure-cli
+scoop install make
 # scoop install libreoffice-fresh
 scoop install texlive-full
 
